@@ -1,3 +1,5 @@
+![Capture](https://user-images.githubusercontent.com/36168832/57184085-04a52a80-6e6b-11e9-902b-978e415be8af.PNG) 
+
 ## Inspiration
 
 I was on a trip to Lake Tahoe and my friends and I were taking pictures of each other and documenting our holiday. After the trip I had to ask all 6 of my friends to send me pictures of myself. The photos were scattered across 7 different phones and it was a hassle to sort through and upload all the photos to Google Drive or iCloud. With approximately 1.8 billion photos being taken everyday and people travelling more frequently, there was a need for a better to share those moments.
@@ -27,3 +29,11 @@ Increasing Facebook utility: adding & posting pictures/posts to Facebook
 Utilizing facial recognition to auto tag/filter photos
 Streamlining how we manage photos
 
+![Capture1](https://user-images.githubusercontent.com/36168832/57184088-07a01b00-6e6b-11e9-8382-471f3a894b7f.PNG)
+![Capture2](https://user-images.githubusercontent.com/36168832/57184089-0a9b0b80-6e6b-11e9-8bfd-d9f3dc3a08c0.PNG)
+![Capture3](https://user-images.githubusercontent.com/36168832/57184090-0cfd6580-6e6b-11e9-9e57-d3daf2bfb62b.PNG)
+![Capture4](https://user-images.githubusercontent.com/36168832/57184091-0ec72900-6e6b-11e9-885f-3835a6b5cc37.PNG)
+![Capture5](https://user-images.githubusercontent.com/36168832/57184093-0ff85600-6e6b-11e9-9ed6-2f357f38c8a8.PNG)
+![Capture6](https://user-images.githubusercontent.com/36168832/57184094-1090ec80-6e6b-11e9-8e89-6a262a0fc6d3.PNG)
+![Capture7](https://user-images.githubusercontent.com/36168832/57184095-11c21980-6e6b-11e9-9d5b-7a497d9939e8.PNG)
+![Capture8](https://user-images.githubusercontent.com/36168832/57184096-12f34680-6e6b-11e9-81be-4701e4a4b816.PNG)
